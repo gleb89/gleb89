@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gleb89&theme=solarized_dark)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gleb89&theme=solarized_dark)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gleb89&theme=solarized_dark)
